@@ -32,5 +32,6 @@
     "node-sass-chokidar": "^1.3.3"
   },
   "description": "Learning electron",
-  "homepage": "./"
+  "homepage": "./",
+  "repository": "https://github.com/imam/learnelectron.git"
 }
