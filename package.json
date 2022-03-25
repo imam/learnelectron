@@ -26,7 +26,7 @@
     "window-installer": "node ./winstaller.js"
   },
   "devDependencies": {
-    "electron": "^2.0.7",
+    "electron": "^13.6.6",
     "electron-packager": "^12.1.1",
     "electron-winstaller": "^2.6.4",
     "node-sass-chokidar": "^1.3.3"
